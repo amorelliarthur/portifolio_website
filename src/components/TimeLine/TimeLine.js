@@ -44,9 +44,12 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>Sobre mim</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Atualmente trabalho como desenvolvedor full stack, especializado em desenvolvimento de sites e sistemas
+      responsivos. Minhas habilidades incluem o uso das linguagens de programação HTML, JavaScript, React, CSS,
+      PHP e MySQL. Além disso, tenho conhecimentos em lógica de programação, linguagem C/C++, Python e
+      aplicações IoT.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
