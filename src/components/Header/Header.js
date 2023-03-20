@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link legacyBehavior href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white", marginBottom: "20px"}}>
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>Portfólio</Span>
         </a>
       </Link>
     </Div1>
@@ -18,31 +18,31 @@ const Header = () =>  (
     <Div2>
       <li>
         <Link legacyBehavior href="#projects">
-          <NavLink>Projects</NavLink>
+          <NavLink>Projetos</NavLink>
         </Link>
       </li>
       <li>
         <Link legacyBehavior href="#tech">
-          <NavLink>Technologies</NavLink>
+          <NavLink>Tecnologias</NavLink>
         </Link>
       </li>        
       <li>
         <Link legacyBehavior href="#about">
-          <NavLink>About</NavLink>
+          <NavLink>sobre</NavLink>
         </Link>
       </li>        
     </Div2>
 
     <Div3>
-      <SocialIcons href="https://google.com">
+      <SocialIcons href="https://github.com/amorelliarthur">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://google.com">
+      <SocialIcons href="https://www.linkedin.com/in/arthur-amorelli-92ba58b3/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://google.com">
+      {/* <SocialIcons href="https://google.com">
         <AiFillInstagram size="3rem"/>
-      </SocialIcons>
+      </SocialIcons> */}
     </Div3>
   </Container>
 );
