@@ -8,28 +8,28 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
+          <LinkTitle>tel</LinkTitle>
           <LinkItem href='tel:(35)99927-8001'>(35) 99927-8001</LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>E-mail</LinkTitle>
           <LinkItem href='mailto:arthur-soares@hotmail.com'>arthur-soares@hotmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Inovando um projeto por vez</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/amorelliarthur">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/arthur-amorelli-92ba58b3/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          {/* <SocialIcons href="https://google.com">
             <AiFillInstagram size="3rem"/>
-          </SocialIcons>
+          </SocialIcons> */}
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
