@@ -7,36 +7,36 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Tecnogolias</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+    Trabalho com diversas tecnologias no mundo do desenvolvimento web.
+    Do back-end ao front-end.
     </SectionText>
     <List>
       <ListItem>
         <DiReact size='3rem'/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
-          Experience with <br />
-          React.js
+          Experiencia com <br />
+          HTML, CSS, JS e React.js
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiFirebase size='3rem'/>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
-          Experience with <br />
-          Node and Databases
+          Experiencia com <br />
+          PHP e banco de dados MySQL
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <DiZend size='3rem'/>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           Experience with <br />
           Tools like Figma
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
     </List>
   </Section> 
 
