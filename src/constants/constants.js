@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'HooBank',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "O projeto Hoo Bank é uma aplicação de front-end para um banco digital que busca oferecer uma experiência de uso simples e intuitiva para seus usuários. Com um design moderno e responsivo, a aplicação permite que os clientes realizem diversas operações bancárias, como transferências, pagamentos de contas e consultas de saldo, de forma rápida e segura.",
       image: '/images/hb.png',
       tags: ['Vitejs', 'React', 'Tailwindcss', 'JavaScript'],
     source: 'https://github.com/amorelliarthur/bank_modern_app',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'GPT-3',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"O projeto GPT-3 é um site de front-end desenvolvido em React com o objetivo de divulgar e demonstrar as capacidades da plataforma de inteligência artificial de mesmo nome. Com um design moderno, interativo e responsivo, o site apresenta informações detalhadas sobre as funcionalidades e recursos oferecidos pelo GPT-3.",
     image: '/images/gpt3.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://github.com/amorelliarthur/gpt3_js',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Gericht Restaurant',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "O projeto Gericht Restaurant é um site desenvolvido para um restaurante fictício que busca oferecer aos clientes uma experiência de navegação simples e agradável. Com um design moderno e atraente, o site apresenta informações sobre o restaurante, seu cardápio e seus serviços, além de permitir que os clientes entrem em contato com a equipe do restaurante. O site também conta com recursos interativos, como galerias de fotos e premiações.",
       image: '/images/GR.png',
       tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://github.com/amorelliarthur/gericht-restaurant',
