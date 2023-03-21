@@ -7,7 +7,7 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Tecnogolias</SectionTitle>
+    <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
     Trabalho com diversas tecnologias no mundo do desenvolvimento web.
     Do back-end ao front-end.
