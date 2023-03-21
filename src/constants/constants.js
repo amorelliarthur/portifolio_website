@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Me formei em Engenharia de computação', },
+  { year: 2018, text: 'Me formei em Engenharia de Computação', },
   { year: 2019, text: 'Fui contratado como Especialista em Sistemas', },
   { year: 2022, text: 'Comecei trabalhar como Dev Full-Stack', },
 ];
