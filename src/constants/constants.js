@@ -26,15 +26,15 @@ export const projects = [
     visit: 'http://gericht-restaurant.rf.gd/',
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'Admin Dashboard',
+    description: "O Admin Dashboard é uma ferramenta de gerenciamento de informações completa e intuitiva. Com interface moderna, o usuário pode visualizar tabelas com informações de contato, formulários e calendários, além de diversos modelos de gráficos que ajudam a entender melhor os dados coletados.",
+    image: '/images/adm1.png',
+    tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://github.com/amorelliarthur/admin-dashboard',
+    visit: 'http://adm-dashboard-1.rf.gd/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
