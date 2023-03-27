@@ -12,7 +12,7 @@ const Hero = (props) => (
         Meu Portfólio pessoal
       </SectionTitle>
       <SectionText>
-      Meu objetivo é aprimorar cada vez mais, levar minhas habilidades de desenvolvimento para o próximo nível e criar aplicações incríveis!
+      Meu objetivo é evoluir constantemente como desenvolvedor, buscando sempre novos desafios e aprendizados para aprimorar minhas habilidades e criar aplicações incríveis!
       </SectionText>
       <Button onClick={() => window.location = '#about'}>Saber Mais</Button>
     </LeftSection>
