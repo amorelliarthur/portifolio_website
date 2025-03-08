@@ -7,9 +7,9 @@ import { LeftSection } from './HeroStyles';
 const Hero = (props) => (
   <Section row nopadding>
     <LeftSection main center>
-      <SectionTitle>
-        Bem-vindo ao  <br />
-        Meu Portfólio pessoal
+    <SectionTitle>
+        Bem-vindo ao meu portfólio!  <br /><br />
+        Onde tecnologia <br /> encontra criatividade
       </SectionTitle>
       <SectionText>
       Meu objetivo é evoluir constantemente como desenvolvedor, buscando sempre novos desafios e aprendizados para aprimorar minhas habilidades e criar aplicações incríveis!
